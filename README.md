@@ -7,6 +7,10 @@
 
 # Data Science & Machine Learning
 
+<div align="Center"><h2>Programación orientada a objetos y Algoritmos con Python </h2></div>
+<div align="center">
+    <img src="https://hackernoon.com/images/1812u304h.gif">
+</div>
 
 Los apuntes están hechos en archivos de jupyter notebook (.ipynb) para hacer uso de markdown, LaTeX y ejecutar código en la misma interfaz.
 
