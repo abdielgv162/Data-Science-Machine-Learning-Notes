@@ -15,7 +15,12 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
 ---
 
 ### Orden de contenidos
-1.  [Introducción a la programación probabilística](#)
 
+-  [Curso de introducción al Pensamiento Probabilístico](#)
+    1. [Programación probabilística](#)
+    2. [Mentiras estadísticas](#) 
+    3. [Introducción a Nachine Learning](#)
+    4. [Agrupamiento](#)
+    5. [Clasificación](#)
 
 ---
