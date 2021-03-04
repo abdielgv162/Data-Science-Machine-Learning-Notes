@@ -23,7 +23,7 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
 -  [Curso de introducción al Pensamiento Probabilístico](#)
     1. [Programación probabilística](#)
     2. [Mentiras estadísticas](#) 
-    3. [Introducción a Nachine Learning](#)
+    3. [Introducción a Machine Learning](#)
     4. [Agrupamiento](#)
     5. [Clasificación](#)
 
