@@ -1,1 +1,1 @@
-# Data-Sciente-Machine-Learning
+# Data Science & Machine Learning
