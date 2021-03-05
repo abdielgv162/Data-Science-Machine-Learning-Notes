@@ -28,3 +28,9 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     5. [Clasificación](#)
 
 ---
+
+**NOTA**: Los cuadernos de jupyter contienen notación matemática en LaTeX, por lo que al visualizarlos en GitHub puede que parte de esa notación se vea diferente o mal escrita. Para leer el documento con mayor claridad se recomienda abrir el archivo en un entorno local de jupyter notebook.
+
+Para poder abrir el archivo en local primero necesitamos tener instalado [Python](https://www.python.org/downloads/) (La última versión aún tiene conflictos, se recomienda la 3.7),[Anaconda](https://www.anaconda.com/) y [Jupyter Notebook](https://jupyter.org/).
+
+Jupyter se abre a través de tu consola de Anaconda, posicionandote en la carpeta de interés y con el comando `jupyter notebook`.
