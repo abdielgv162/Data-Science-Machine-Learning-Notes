@@ -23,14 +23,32 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
 
 ---
 
-### Orden de contenidos
 
--  [Curso de introducción al Pensamiento Probabilístico](#)
+
+## Orden de contenidos
+
+1.  [Curso de Python Intermedio](#)
+    1. [Entorno virtual](#)
+    2. [Alternativa a los ciclos: comprehensions](#)
+    3. [Conceptos avanzados de funciones](#)
+    4. [Manejo de errores](#)
+    5. [Manejo de archivos](#)
+2.  [Curso de introducción al Pensamiento Probabilístico](#)
     1. [Programación probabilística](#)
     2. [Mentiras estadísticas](#) 
     3. [Introducción a Machine Learning](#)
     4. [Agrupamiento](#)
     5. [Clasificación](#)
+
+---
+
+### Contenidos previos de otros repositorios
+
+1. [Introducción al Pensamiento Computacional con Python<br>(Repositorio original de karlbehrensg).](https://github.com/karlbehrensg/introduccion-pensamiento-computacional)
+2. [Programación orientada a objetos y Algoritmos con Python](https://github.com/abdielgv162/POO_Algoritmos)
+3. [Estadística computacional con Python](https://github.com/abdielgv162/Estadistica_Computacional)
+
+Los contenidos anteriores están escritos únicamente en markdown, por lo que se pueden visualizar sin problema en el .README del repositorio.
 
 ---
 
