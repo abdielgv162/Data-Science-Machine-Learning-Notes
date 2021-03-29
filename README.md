@@ -52,8 +52,8 @@ Los contenidos anteriores están escritos únicamente en markdown, por lo que se
 
 ---
 
-**NOTA**: Los cuadernos de jupyter contienen notación matemática en LaTeX, por lo que al visualizarlos en GitHub puede que parte de esa notación se vea diferente o mal escrita. Para leer el documento con mayor claridad se recomienda abrir el archivo en un entorno local de jupyter notebook.
+**NOTA**: Los cuadernos de jupyter contienen notación matemática en LaTeX, por lo que al visualizarlos en GitHub puede que parte de esa notación se vea diferente o mal escrita. Para leer el documento con mayor claridad se recomienda abrir el archivo en un entorno local de jupyter notebook o en plataformas como [Google Colab](https://colab.research.google.com/).
 
-Para poder abrir el archivo en local primero necesitamos tener instalado [Python](https://www.python.org/downloads/) (La última versión aún tiene conflictos, se recomienda la 3.7),[Anaconda](https://www.anaconda.com/) y [Jupyter Notebook](https://jupyter.org/).
+Para poder abrir el archivo en local primero necesitamos tener instalado [Python](https://www.python.org/downloads/) (La última versión aún tiene conflictos, se recomienda la 3.7),[Anaconda](https://www.anaconda.com/) y [Jupyter Notebook](https://jupyter.org/). Jupyter se abre a través de tu consola de Anaconda, posicionandote en la carpeta de interés y entrando con el comando `jupyter notebook`.
 
-Jupyter se abre a través de tu consola de Anaconda, posicionandote en la carpeta de interés y con el comando `jupyter notebook`.
+Para abrirlo en entornos en línea como Google Colab solo basta con subir el archivo .ipynb a la plataforma y abrirlo.
