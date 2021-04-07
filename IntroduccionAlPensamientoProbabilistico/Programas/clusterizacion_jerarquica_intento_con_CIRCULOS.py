@@ -95,6 +95,7 @@ def calcula_y_dibuja(datos): #Calcular distancia entre puntos M#1
                 joined_digits = ''.join(digit_array)
                 hex_number = '#' + joined_digits
                 ############################################ 
+                
                 dis_x = abs((actual[0])-(i[0]))
                 dis_y = abs((actual[1])-(i[1]))
                 distancia = abs(round((math.sqrt((dis_x)**2+(dis_y)**2)),3))
@@ -110,6 +111,9 @@ def calcula_y_dibuja(datos): #Calcular distancia entre puntos M#1
             print(f'\nEl valor mínimo es el indice {index} de la lista de distancias,\nque corresponde al punto {datos[index+1]}.\n')
             print(f'Punto actual: {actual}')
             print(f'Punto cercano: {datos[index+1]}')
+            print(f'Radio: {minimo/2}')
+            print(f'Centro: {actual[0]}, {actual[1]}')
+
             actual = [(actual[0] + datos[index+1][0] ) / 2, (actual[1] + datos[index+1][1] ) / 2]
             print(f'Nuevo cluster: {actual}')
             ####Dibujar Clusters#############
@@ -118,10 +122,11 @@ def calcula_y_dibuja(datos): #Calcular distancia entre puntos M#1
                 actual[1],
                 legend_label="1er cluster",
                 fill_color=hex_number,
-                fill_alpha=0.4,
+                fill_alpha=0.1,
                 line_color=hex_number,
-                size=10,                   )
-                ###############################
+                radius=minimo/2,                   )
+            ###############################
+            
             
             #########################
             clusters.append(actual)
@@ -169,7 +174,8 @@ def calcula_y_dibuja(datos): #Calcular distancia entre puntos M#1
                 fill_color=hex_number,
                 fill_alpha=0.1,
                 line_color=hex_number,
-                size=200,                )
+                radius=minimo/2,
+                                    )
                 ###############################
             
 
@@ -187,12 +193,10 @@ def calcula_y_dibuja(datos): #Calcular distancia entre puntos M#1
 
 
     # show the results
-
+    
 
 
 if __name__ == '__main__':
     numero_de_datos = int(input('Ingrese la cantidad de datos a usar :'))
     datos = crear_datos()
-    clusters = calcula_y_dibuja(datos)  
-
-
+    clusters = calcula_y_dibuja(datos) 
