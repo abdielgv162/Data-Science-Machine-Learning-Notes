@@ -13,7 +13,7 @@ def crear_datos():#Creamos los puntitos que representarán el dataset
         y = random.randint(0,10)
         datos.append([x,y])
     #Revisamos cuales son
-    print(f'Todos los puntos: {datos}')
+    #print(f'Todos los puntos: {datos}')
     return datos
 
 def dist_euclidiana(datos): #Calcular distancia entre puntos M#1
@@ -21,27 +21,55 @@ def dist_euclidiana(datos): #Calcular distancia entre puntos M#1
     #Como son aleatorios, da igual cual escogemos, pero facilita
     #el proceso ya que solo falta recorrer los elementos de la lista.
     actual = datos[0] 
-    print(f'\nDato actual: {actual} \n')
-    distancias = []
-    for i in datos[1::]:
-        dis_x = abs((actual[0])-(i[0]))
-        dis_y = abs((actual[1])-(i[1]))
-        distancia = abs(round((math.sqrt((dis_x)**2+(dis_y)**2)),3))
-        distancias.append(distancia)
-        print(f'Distancia al punto {i}= {distancia} unidades')
-    print(f'\nDistancias: {distancias}')
-    minimo = min(distancias)
-    print(f'Valor mínimo: {minimo}')
-    index = distancias.index(minimo)
-    print(f'\nEl valor mínimo es el indice {index} de la lista de distancias,\nque corresponde al punto {datos[index]}.\n')
-    
-    print(f'Punto actual: {actual}')
-    print(f'Punto cercano: {datos[index]}')
-    actual = [(actual[0] + datos[index][0] ) / 2, (actual[1] + datos[index][1] ) / 2]
-    print(f'Nuevo cluster: {actual}')
+    while len(datos) > 0:
+        
+        if actual == datos[0]:
+        
+            print(f'Todos los puntos: {datos}')
+            print(f'\nDato actual: {actual} \n')
+            distancias = []
+            for i in datos[1::]:
+                dis_x = abs((actual[0])-(i[0]))
+                dis_y = abs((actual[1])-(i[1]))
+                distancia = abs(round((math.sqrt((dis_x)**2+(dis_y)**2)),3))
+                distancias.append(distancia)
+                print(f'Distancia al punto {i}= {distancia} unidades')
+            print(f'\nDistancias: {distancias}')
+            minimo = min(distancias)
+            print(f'Valor mínimo: {minimo}')
+            index = distancias.index(minimo)
+            print(f'\nEl valor mínimo es el indice {index} de la lista de distancias,\nque corresponde al punto {datos[index+1]}.\n')
+            print(f'Punto actual: {actual}')
+            print(f'Punto cercano: {datos[index+1]}')
+            actual = [(actual[0] + datos[index][0] ) / 2, (actual[1] + datos[index][1] ) / 2]
+            print(f'Nuevo cluster: {actual}')
+            print('--------------------------------')
+            datos.pop(0)
+            datos.pop(index)
 
-def merge_clusters(index,datos):
-    print(datos[0])
+        else:
+            
+            print(f'Todos los puntos: {datos}')
+            print(f'\nDato actual: {actual} \n')
+            distancias = []
+            for i in datos[0::]:
+                dis_x = abs((actual[0])-(i[0]))
+                dis_y = abs((actual[1])-(i[1]))
+                distancia = abs(round((math.sqrt((dis_x)**2+(dis_y)**2)),3))
+                distancias.append(distancia)
+                print(f'Distancia al punto {i}= {distancia} unidades')
+            print(f'\nDistancias: {distancias}')
+            minimo = min(distancias)
+            print(f'Valor mínimo: {minimo}')
+            index = distancias.index(minimo)
+            print(f'\nEl valor mínimo es el indice {index} de la lista de distancias,\nque corresponde al punto {datos[index]}.\n')
+            print(f'Punto actual: {actual}')
+            print(f'Punto cercano: {datos[index]}')
+            actual = [(actual[0] + datos[index][0] ) / 2, (actual[1] + datos[index][1] ) / 2]
+            print(f'Nuevo cluster: {actual}')
+            print('--------------------------------')
+            datos.pop(index)
+
 
 def dibujar(datos):
     #Delimitamos el espacio y color del plano
