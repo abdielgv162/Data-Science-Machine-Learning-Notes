@@ -27,13 +27,13 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
 
 ## Orden de contenidos
 
-1.  [Curso de Python Intermedio](#)
+1.  [Python Intermedio](#)
     1. [Entorno virtual](#)
     2. [Alternativa a los ciclos: comprehensions](#)
     3. [Conceptos avanzados de funciones](#)
     4. [Manejo de errores](#)
     5. [Manejo de archivos](#)
-2.  [Curso de introducción al Pensamiento Probabilístico](#)
+2.  [Introducción al Pensamiento Probabilístico](#)
     1. [Programación probabilística](#)
     2. [Mentiras estadísticas](#) 
     3. [Introducción a Machine Learning](#)
