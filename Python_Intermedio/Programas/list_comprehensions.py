@@ -1,3 +1,6 @@
+# Comentar varias lineas de código
+# Ctrl K + Ctrl C
+
 def without_list_comprehensions():
     list_n_to_2 = []
     for i in range(1, 101):
