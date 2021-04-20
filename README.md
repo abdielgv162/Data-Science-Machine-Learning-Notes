@@ -42,10 +42,10 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     5. [Clasificación](#)
 3.  [Cognitive Class IBM ML0101ENv3: Machine Learning with Python](#)
     1. [Machine Learning](#)
-    2. [Regression](#)
-    3. [Clasification](#)
-    4. [Clustering](#)
-    5. [Recommender Systems](#)
+    2. [Regresión](#)
+    3. [Clasificación](#)
+    4. [Clustering/Agrupamiento](#)
+    5. [Sistemas de recomendación](#)
 
 ---
 
