@@ -40,7 +40,7 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     3. [Introducción a Machine Learning](#)
     4. [Agrupamiento](#)
     5. [Clasificación](#)
-3.   [Cálculo](#)
+3.  [Cálculo](#)
     1. [Funciones y límites](#)
     2. [Cálculo diferencial](#)
     3. [Cálculo multivariable](#)
