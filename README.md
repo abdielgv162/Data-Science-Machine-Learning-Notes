@@ -45,7 +45,18 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     2. [Cálculo diferencial](#)
     3. [Cálculo multivariable](#)
     4. [Descenso del gradiente](#)
-4.  [Cognitive Class IBM ML0101ENv3: Machine Learning with Python](#)
+4.  [Probabilidad](#)
+    1.  [Fundamentos](#)
+    2.  [Distribuciones de probabilidad](#)
+    3.  [MLE (Maximum Likelihood Estimation)](#)
+    4.  [Inferencia bayesiana](#)
+5.  [Fundamentos Prácticos de Machine Learning ](#)
+    1.  [Fundamentos prácticos](#)
+    2.  [Regresión Lineal y Logística](#)
+    3.  [Árboles de decisión](#)
+    4.  [K-Means](#)
+    5.  [Aprendizaje profundo](#)
+6.  [Cognitive Class IBM ML0101ENv3: Machine Learning with Python](#)
     1. [Machine Learning](#)
     2. [Regresión](#)
     3. [Clasificación](#)
@@ -69,3 +80,4 @@ Los contenidos anteriores están escritos únicamente en markdown, por lo que se
 Para poder abrir el archivo en local primero necesitamos tener instalado [Python](https://www.python.org/downloads/) (La última versión aún tiene conflictos, se recomienda la 3.7),[Anaconda](https://www.anaconda.com/) y [Jupyter Notebook](https://jupyter.org/). Jupyter se abre a través de tu consola de Anaconda, posicionandote en la carpeta de interés y entrando con el comando `jupyter notebook`.
 
 Para abrirlo en entornos en línea como Google Colab solo basta con subir el archivo .ipynb a la plataforma y abrirlo.
+
