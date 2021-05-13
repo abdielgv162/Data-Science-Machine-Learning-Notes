@@ -62,6 +62,13 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     3. [Clasificación](#)
     4. [Clustering/Agrupamiento](#)
     5. [Sistemas de recomendación](#)
+7.  [IA Notebook - Dot CSV](#)
+    1. [ Regresión Lineal y Mínimos Cuadrados Ordinarios](#)
+    2. [Ataques adversarios, cómo romper una RED NEURONAL](#)
+    3. [Descenso del Gradiente (Gradient Descent)](#)
+    4. [Programando Red Neuronal desde Cero](#)
+    5. [ Generando FLORES realistas con IA - Pix2Pix](#)
+    6. [ Juego de La Vida](#)
 
 ---
 
