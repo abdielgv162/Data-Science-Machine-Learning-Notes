@@ -1,6 +1,6 @@
 ### Bienvenid@!  :purple_heart:
 
-<img src="https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif">
+<img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x">
 
 Puedes encontrarme en: 
 
@@ -15,7 +15,7 @@ Puedes encontrarme en:
 
 <div align="Center"><h1> Data Science & Machine Learning </h1></div>
 <div align="center">
-    <img src="https://hackernoon.com/images/1812u304h.gif">
+    <img src="https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif">
 </div>
 
 ---
