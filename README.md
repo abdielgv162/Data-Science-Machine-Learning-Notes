@@ -1,4 +1,6 @@
-### Bienvenid@!  :purple_heart:  <img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x">
+### Bienvenid@!  :purple_heart:
+
+<img src="https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif">
 
 Puedes encontrarme en: 
 
