@@ -71,6 +71,7 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     4. [Programando Red Neuronal desde Cero](#)
     5. [ Generando FLORES realistas con IA - Pix2Pix](#)
     6. [ Juego de La Vida](#)
+    7. [Copia de notebook VQGAN+CLIP](#)
 
 ---
 
