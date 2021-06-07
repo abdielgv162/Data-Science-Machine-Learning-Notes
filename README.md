@@ -1,4 +1,4 @@
-### Bienvenid@!  :purple_heart:
+### Bienvenid@!  :black_heart:
 
 <img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x">
 
