@@ -28,39 +28,47 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
 
 ## Orden de contenidos
 
-1.  [Python Intermedio](#)
-    1. [Entorno virtual](#)
-    2. [Alternativa a los ciclos: comprehensions](#)
-    3. [Conceptos avanzados de funciones](#)
-    4. [Manejo de errores](#)
-    5. [Manejo de archivos](#)
-2.  [Introducción al Pensamiento Probabilístico](#)
-    1. [Programación probabilística](#)
-    2. [Mentiras estadísticas](#) 
-    3. [Introducción a Machine Learning](#)
-    4. [Agrupamiento](#)
-    5. [Clasificación](#)
-3.  [Cálculo](#)
-    1. [Funciones y límites](#)
-    2. [Cálculo diferencial](#)
-    3. [Cálculo multivariable](#)
-    4. [Descenso del gradiente](#)
-4.  [Fundamentos Prácticos de Machine Learning ](#)
-    1.  [Fundamentos prácticos](#)
-    2.  [Regresión Lineal y Logística](#)
-    3.  [Árboles de decisión](#)
-    4.  [K-Means](#)
-    5.  [Aprendizaje profundo](#)
-5.  [ Álgebra Lineal Aplicada para Machine Learning](#)
-    1.  [Transformaciones lineales y descomposición de matrices](#)
-    2.  [Aplicaciones de SVD a una imagen](#)
-    3.  [Aplicando Álgebra Lineal: Análisis de Componentes Principales (PCA)](#)
-6.  [Cognitive Class IBM ML0101ENv3: Machine Learning with Python](#)
-    1. [Machine Learning](#)
-    2. [Regresión](#)
-    3. [Clasificación](#)
-    4. [Clustering/Agrupamiento](#)
-    5. [Sistemas de recomendación](#)
+1.  [Python Intermedio](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/Python_Intermedio)
+    1. Entorno virtual
+    2. Alternativa a los ciclos: comprehensions
+    3. Conceptos avanzados de funciones
+    4. Manejo de errores
+    5. Manejo de archivos
+2.  [Introducción al Pensamiento Probabilístico](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/IntroduccionAlPensamientoProbabilistico)
+    1. Programación probabilística
+    2. Mentiras estadísticas
+    3. Introducción a Machine Learning
+    4. Agrupamiento
+    5. Clasificación
+3.  [Cálculo](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/Calculo)
+    1. Funciones y límites
+    2. Cálculo diferencial
+    3. Cálculo multivariable
+    4. Descenso del gradiente
+4.  [Fundamentos Prácticos de Machine Learning ](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/Fundamentos_Practicos_de_Machine_Learning)
+    1.  Fundamentos prácticos
+    2.  Regresión Lineal y Logística
+    3.  Árboles de decisión
+    4.  K-Means
+    5.  Aprendizaje profundo
+5.  [Fundamentos de Álgebra lineal con Python](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/Fundamentos_de_Algebra_Lineal_con_Python)
+    1.  Conceptos básicos 
+    2.  Operaciones básicas
+    3.  Operaciones con matrices
+    4.  Sistema de ecuaciones lineales
+    5.  Normas
+    6.  Matrices y vectores especiales
+    7.  Otras funciones de álgebra lineal
+6.  [ Álgebra Lineal Aplicada para Machine Learning](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/Algebra_Lineal_Aplicada_para_Machine_Learning)
+    1.  Transformaciones lineales y descomposición de matrices
+    2.  Aplicaciones de SVD a una imagen
+    3.  Aplicando Álgebra Lineal: Análisis de Componentes Principales (PCA)
+7.  [Cognitive Class IBM ML0101ENv3: Machine Learning with Python](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/CognitiveClass_ML0101ENv3_MachineLearning_with_Python_IBM)
+    1. Machine Learning
+    2. Regresión
+    3. Clasificación
+    4. Clustering/Agrupamiento
+    5. Sistemas de recomendación
 
 
 ---
