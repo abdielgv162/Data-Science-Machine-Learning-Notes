@@ -78,6 +78,7 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
 1. [Introducción al Pensamiento Computacional con Python<br>(Repositorio original de karlbehrensg).](https://github.com/karlbehrensg/introduccion-pensamiento-computacional)
 2. [Programación orientada a objetos y Algoritmos con Python](https://github.com/abdielgv162/POO_Algoritmos)
 3. [Estadística computacional con Python](https://github.com/abdielgv162/Estadistica_Computacional)
+4. [Análisis de Negocios para Ciencia de Datos](https://www.notion.so/An-lisis-de-Negocios-para-Ciencia-de-Datos-514946934e074a82a0b1ce51659a368a)
 
 Los contenidos anteriores están escritos únicamente en markdown, por lo que se pueden visualizar sin problema en el .README del repositorio.
 
