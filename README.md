@@ -59,7 +59,7 @@ Los códigos realizados en el transcurso del contenido se encuentran en la parte
     5.  Normas
     6.  Matrices y vectores especiales
     7.  Otras funciones de álgebra lineal
-6.  [ Álgebra Lineal Aplicada para Machine Learning](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/tree/master/Algebra_Lineal_Aplicada_para_Machine_Learning)
+6.  [ Álgebra Lineal Aplicada para Machine Learning](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes/blob/master/Algebra_Lineal_Aplicada_para_Machine_Learning/Algebra_Lineal_aplicada_para_Machine_Learning.ipynb)
     1.  Transformaciones lineales y descomposición de matrices
     2.  Aplicaciones de SVD a una imagen
     3.  Aplicando Álgebra Lineal: Análisis de Componentes Principales (PCA)
